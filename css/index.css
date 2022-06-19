@@ -1,0 +1,140 @@
+.wrap{
+    width: 900px;
+    height: 700px;
+    margin: 0 auto;
+}
+.head-title{
+    background-color:rgba(83, 127, 180, 0.1) ;
+    color: rgba(86, 65, 255, 0.6);
+    text-transform:uppercase;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 5px solid rgba(139, 215, 223, 0.8);
+    text-align: center;
+    padding: 18px;
+}
+.header{
+    height:150px;
+    margin:10px;
+}
+.navbarmenu{
+    margin-bottom: 50px;
+}
+.navbar {
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 5px;
+}
+.left-bar{
+    float: left;
+}
+.right-bar{
+    float: right;
+}
+.section{
+    color: rgb(60, 60, 60);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.article{
+    height: 500px;
+}
+.sec-tit{
+    margin: auto;
+    text-align: center;
+    color: rgb(209, 78, 117);
+    font-size: 30px;
+    width: 50%;
+    padding: 20px;
+}
+
+.art{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.art-text{
+    text-align: center;
+    width:650px;
+    float: right;
+}
+.iletisim-art{
+    text-align: left;
+
+}
+.art-tit{
+    color: rgb(179, 42, 144);
+    font-size: 20px;
+    text-align: left;
+}
+.il-art-tit{
+    color: rgb(179, 42, 144);
+    font-size: 20px;
+    text-align: left;
+}
+.art-p{
+    width:500px;
+    text-align: left;
+}
+.art-image{
+    position: relative;
+    width: 220px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 22px;
+    float: left;
+}
+.art-h-image{
+    position: relative;
+    height: 200px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 100px;
+    float: left;
+}
+.art-img{
+    width: 220px;
+    height: 100px;
+    
+}
+.footer{
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    word-spacing: 150px;
+
+    width: 900px;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(83, 127, 180, 0.1);
+    border: 5px solid rgba(86, 65, 255, 0.6);
+}
+a.nav-end{
+    color: rgb(66, 153, 194);
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+p{
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+a.navbar {
+    text-decoration: none;
+    color: rgba(76, 23, 146, 0.7);
+    line-height: 30px;
+    font-weight: bold;
+    font-size: 18px;
+}
+a.il-a-art {
+    text-decoration: none;
+    color: rgba(31, 135, 177, 0.7);
+    font-weight: bold;
+
+}
