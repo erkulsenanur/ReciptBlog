@@ -1,6 +1,4 @@
-![index.html görünüsü](img/goruntu-index-html.png)
-![EristeSalatasi.html görünüsü](img/goruntu-EristeSalatasi-html.png)
-![contact.html görünüsü](img/goruntu-contact-html.png)
+
 
 # Kodluyoruz - Ödev - Recipt Blog
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğum Yemek tarifi Blogu Reposu. İçerisinde bir adet README dosyası, html dosyaları, css klasörü ve img klasörü barındırıyor.
